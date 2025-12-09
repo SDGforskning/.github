@@ -35,6 +35,6 @@ The goal of the project was both to further develop a well-documented mapping, a
 The contents of this repository are partially a result of this work. 
 This project was led by the University of Bergen Library, partnered with the libraries at Western Norway University of Applied Sciences and the University of Stavanger. 
 
-v2.0.0 of the strings (which covers ten SDGs) was developed under this project by these three insitutions, together with Natural Resources Institute Finland (LUKE) who contributed with search strings for two SDGs as an external collaborator. 
-Further development work (strings for the remaining six SDGs and improvements to the python script) is being done in a larger collaboration between the institutions listed at the top of this file. 
+v2.0.0 of the strings (which covers ten SDGs) was developed under this project by these three insitutions, together with Natural Resources Institute Finland (LUKE) who contributed with search strings for two SDGs. 
+Further development (strings for the remaining six SDGs and improvements to the python script) is being done in a larger collaboration between the institutions listed at the top of this file. 
 
