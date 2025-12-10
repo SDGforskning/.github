@@ -1,7 +1,7 @@
 # Welcome to SDG research strings!
 
 This work consists of
-- **Open search strings to find academic publications related to the [Sustainable development goals](https://sdgs.un.org/goals)** (*Repo: sdg-strings*). These files include search blocks/hedges, in both Web of Science syntax and a python script,
+- **Open search strings to find academic publications related each target of the [Sustainable development goals](https://sdgs.un.org/goals)** (*Repo: sdg-strings*). These files include search blocks/hedges, in both Web of Science syntax and a python script,
 and include detailed documentation of what the strings cover and why.
 The [release of the current version is available on Zenodo](https://doi.org/10.5281/zenodo.7241689), and covers ten SDGs. The remaining six are currently under development (2025-26).
 - **A tagger in python**, which can tag text or data in dataframes using these mappings (*Repo: sdg-tagger*). 
